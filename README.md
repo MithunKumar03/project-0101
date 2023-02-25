@@ -1,2 +1,2 @@
-# project-0101
+# mini
 Begi of GitHub interface
